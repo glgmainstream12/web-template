@@ -22,13 +22,17 @@ fullstack_template_next_express/
 
 ### Installation
 
-1. Clone the repository:
+1. instalation:
 ```bash
-git clone <repository-url>
-cd fullstack_template_next_express
+npm install -g gilang-cli
 ```
 
-2. Install dependencies:
+2. Clone Repo
+```bash
+gilang
+```
+
+3. Install dependencies:
 ```bash
 npm install
 ```
